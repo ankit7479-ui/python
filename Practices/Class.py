@@ -3,8 +3,8 @@ class Dog:
       self.name = name
       self.breed = breed
       
-def bark(self):
-    print(f"{self.name} says Woof!")
+    def bark(self):
+        print(f"{self.name} says Woof!")
          
 dog = Dog("Buddy","golden Reteriver")      
 dog.bark()        
