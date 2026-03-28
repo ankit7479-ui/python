@@ -1,10 +1,10 @@
-"""my_truple = (1,2,3,"apple",True)
-print(my_truple)"""
+my_truple = (1,2,3,"apple",True)
+print(my_truple)
 
-"""single element truple
+#single element truple
 single_trulpe = (5,)
-print(type(single_trulpe))"""
+print(type(single_trulpe))
 
-"""Dict 
+#Dict 
 person = {"name":"Alice" , "age":22}
-print(person)"""
+print(person)
